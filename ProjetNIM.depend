@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579164577 source:c:\users\adrie\desktop\projetnim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"entetes.h"
+
+1578410046 c:\users\adrie\desktop\projetnim\headers.h
+
+1579164560 c:\users\adrie\desktop\projetnim\entetes.h
+
+1579164564 source:c:\users\adrie\desktop\projetnim\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"entetes.h"
+
